@@ -40,3 +40,4 @@ MANIFEST
 
 # Jupyter Notebook files
 .ipynb_checkpoints/
+uv.lock
